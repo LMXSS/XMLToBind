@@ -21,7 +21,7 @@ Para usar este script, siga estas etapas:
 
 ```bash
 python script_name.py input.xml output.txt
-
+```
 
 input.xml é o caminho do arquivo XML que você deseja converter.
 output.txt é o nome do arquivo de texto onde o código convertido será salvo.
